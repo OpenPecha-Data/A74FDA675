@@ -1,0 +1,25 @@
+segment_sources:
+  P1D55DEE1:
+    type: origin_type
+    relation: translation
+    language: en
+  P99E8AEFF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a4b3b2ec7d464ce398cf6b38c5d7382d:
+    P1D55DEE1: 55ac6e985043452c9cd27203662b108e
+    P99E8AEFF: ec7d3e254dbc43afa46422d9883fc3e8
+  715679c8d46d4b88a2db3606cc6c4ec5:
+    P1D55DEE1: 243862d4e3b34dbbbe2d2b207c6f5717
+    P99E8AEFF: ba3fa71327244bc49b21a97a27afdbd6
+  44528a3f83d34d4287e8b247377789e9:
+    P1D55DEE1: 097f356a6c5a4065b7ac62771665a156
+    P99E8AEFF: 3fe2f0b3d568472f893ba959a181b21b
+  76614185996447d28be3d3abc4333e64:
+    P1D55DEE1: b04c73ef12454728a126d714ce57a869
+    P99E8AEFF: 20a050f0fbcc444dbb0a7a09c09ceafc
+  1da862f6ef9f4b4186ab25057496bc0f:
+    P1D55DEE1: 5293f0bb690245dd931855d7aebf1a9b
+    P99E8AEFF: d6dc247632a04fa9b22413b2c8d78085
